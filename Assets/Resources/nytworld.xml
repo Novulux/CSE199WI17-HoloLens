@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 16 Mar 2017 21:32:21 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Geert Wilders Falls Short in Election, as Wary Dutch Scatter Their Votes</title>
+      <link>http://www.nytimes.com/2017/03/15/world/europe/geert-wilders-netherlands-far-right-vote.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/15/world/europe/geert-wilders-netherlands-far-right-vote.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/15/world/europe/geert-wilders-netherlands-far-right-vote.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/16/world/16Netherlands02sub/16Netherlands02sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;The Netherlands, after Brexit, after the American elections, said &#x2018;Whoa&#x2019; to the wrong kind of populism,&#x201D; said Mark Rutte, the Dutch prime minister, speaking to an enthusiastic crowd.</media:description>
+      <media:credit>Carl Court/Getty Images</media:credit>
+      <description>Voters turned out in record numbers, and rewarded right and center-right parties that had co-opted parts of Mr. Wilders&#x2019;s message.</description>
+      <dc:creator>ALISSA J. RUBIN</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 00:31:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilders, Geert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutte, Mark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">People's Party for Freedom and Democracy (Netherlands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Christian Democratic Appeal (Netherlands)</category>
+    </item>
+    <item>
+      <title>Brazil&#x2019;s Leaders See Way Out of Scandal: Amnesty</title>
+      <link>http://www.nytimes.com/2017/03/15/world/americas/brazil-congress-amnesty.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/15/world/americas/brazil-congress-amnesty.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/15/world/americas/brazil-congress-amnesty.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/16/world/16Brazil1/16Brazil1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A demonstration against corruption and in support of the investigation into the bribery scandal around the state oil giant Petrobras in S&#xE3;o Paulo, Brazil, last year.</media:description>
+      <media:credit>Miguel Schincariol/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Lawmakers across the political spectrum are scrambling to give themselves immunity on campaign finance violations, protections that could benefit even the president.</description>
+      <dc:creator>SIMON ROMERO</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 00:53:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Petroleo Brasileiro SA Petrobras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Odebrecht SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Temer, Michel (1940- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neves, Aecio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rousseff, Dilma</category>
+    </item>
+    <item>
+      <title>While Scolding Trump, Mexico Seeks to Curtail Citizens&#x2019; Rights</title>
+      <link>http://www.nytimes.com/2017/03/16/world/americas/mexico-trump-pena-nieto-wall-drug-war.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/americas/mexico-trump-pena-nieto-wall-drug-war.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/americas/mexico-trump-pena-nieto-wall-drug-war.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/15/world/mexico1/mexico1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Enrique Pe&#xF1;a Nieto of Mexico with military officers last month. In December, he urged lawmakers to broaden the military&#x2019;s power in domestic affairs.</media:description>
+      <media:credit>Rebecca Blackwell/Associated Press</media:credit>
+      <description>A bill to overhaul the legal system would set back human rights in Mexico by decades, experts fear, while another bill would legalize the military&#x2019;s domestic security role.</description>
+      <dc:creator>AZAM AHMED</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 15:48:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Inter-American Commission on Human Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena Nieto, Enrique</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+    </item>
+    <item>
+      <title>Rex Tillerson, in Japan, Says U.S. Needs &#x2018;Different Approach&#x2019; to North Korea</title>
+      <link>http://www.nytimes.com/2017/03/16/world/asia/rex-tillerson-asia-trump-us-japan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/asia/rex-tillerson-asia-trump-us-japan.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/asia/rex-tillerson-asia-trump-us-japan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17tillerson-2/17tillerson-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The American carrier Carl Vinson during an exercise in the South China Sea this month. &#x201C;It&#x2019;s pretty clear that there&#x2019;s a perfect storm brewing for mischief in East Asia right now,&#x201D; one analyst said.</media:description>
+      <media:credit>Erik De Castro/Reuters</media:credit>
+      <description>The American secretary of state began his trip, which will also include stops in Seoul and Beijing, in a region where the most pressing threat is Pyongyang&#x2019;s nuclear ambitions.</description>
+      <dc:creator>MOTOKO RICH</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 09:52:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diplomatic Service, Embassies and Consulates</category>
+    </item>
+    <item>
+      <title>German Authorities Raid U.S. Law Firm Leading Volkswagen&#x2019;s Emissions Inquiry</title>
+      <link>http://www.nytimes.com/2017/03/16/business/volkswagen-diesel-emissions-investigation-germany.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/business/volkswagen-diesel-emissions-investigation-germany.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/business/volkswagen-diesel-emissions-investigation-germany.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/business/17volkswagen1/17volkswagen1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Volkswagen cars are lifted inside a delivery tower in Wolfsburg, Germany this week. The carmaker is the subject of a wide-ranging inquiry into an emissions-cheating scheme.</media:description>
+      <media:credit>Michael Sohn/Associated Press</media:credit>
+      <description>Munich prosecutors seized documents from Jones Day, suggesting investigators believe the firm may have withheld information collected in an internal investigation into the carmaker&#x2019;s emissions fraud.</description>
+      <dc:creator>JACK EWING and BILL VLASIC</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 20:36:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Volkswagen AG</category>
+    </item>
+    <item>
+      <title>Mount Etna Erupts in Sicily, Injuring at Least 10</title>
+      <link>http://www.nytimes.com/2017/03/16/world/europe/mount-etna-volcano-eruption.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/europe/mount-etna-volcano-eruption.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/europe/mount-etna-volcano-eruption.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17etna_xp/17etna_xp-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mount Etna, Europe&#x2019;s most active volcano, spewed lava during an eruption early Thursday.</media:description>
+      <media:credit>Salvatore Allegra/Associated Press</media:credit>
+      <description>Firestorm met tweetstorm when a BBC crew was caught up in a blast of steam and molten lava from Europe&#x2019;s biggest volcano.</description>
+      <dc:creator>JENNIFER SCHUESSLER</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 20:08:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Space Agency</category>
+    </item>
+    <item>
+      <title>Michael Flynn Was Paid by Russian-Linked Firms, Letter Shows</title>
+      <link>http://www.nytimes.com/2017/03/16/us/politics/michael-flynn-russia-paid-trip.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/us/politics/michael-flynn-russia-paid-trip.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/us/politics/michael-flynn-russia-paid-trip.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/12/world/17flynn1/17flynn1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lt. Gen. Michael T. Flynn, center left, President Trump&#x2019;s former national security adviser, and Russian president Vladimir V. Putin at a 2015 event in Moscow for the RT news group.</media:description>
+      <media:credit>Pool photo by Mikhail Klimentyev</media:credit>
+      <description>Congressional investigators released a letter showing that companies paid Michael T. Flynn, President Trump&#x2019;s former national security adviser, more than $65,000 in 2015.</description>
+      <dc:creator>ADAM GOLDMAN and MICHAEL SCHWIRTZ</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 18:50:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Michael T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">RT (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Kaspersky Lab</category>
+    </item>
+    <item>
+      <title>Cautious Optimism in Brazil as Appetite Returns for I.P.O.s</title>
+      <link>http://www.nytimes.com/2017/03/16/business/dealbook/brazil-technology-ipo-sao-paulo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/business/dealbook/brazil-technology-ipo-sao-paulo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/business/dealbook/brazil-technology-ipo-sao-paulo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/business/17db-brazilipo1/17db-brazilipo1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A broker in S&#xE3;o Paulo, Brazil, last year. The country&#x2019;s finance sector is starting to show some optimism, and investment bankers say they are seeing better opportunities and greater appetite from foreign investors.</media:description>
+      <media:credit>Andre Penner/Associated Press</media:credit>
+      <description>After a three-year drought of initial public offerings amid economic and political upheaval, some expect that more than a dozen deals will be filed by the end of the year.</description>
+      <dc:creator>VINOD SREEHARSHA</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 18:12:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">XP Investimentos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">NS2.Com Internet SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Movida Locacao de Veiculos SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Azul Linhas Aereas Brasileiras SA</category>
+    </item>
+    <item>
+      <title>In Peru, Woman Narrowly Escapes Mudslide</title>
+      <link>http://www.nytimes.com/video/world/americas/100000004992890/in-peru-woman-narrowly-escape-mudslide.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/video/world/americas/100000004992890/in-peru-woman-narrowly-escape-mudslide.html</guid>
+      <description>A woman managed to pull herself from debris and mud on the outskirts of Lima on Wednesday, after heavy rains triggered floods across the country. Since the beginning of the year, 550,000 people have been displaced and dozens killed by the flooding.</description>
+      <dc:creator/>
+      <pubDate>Thu, 16 Mar 2017 16:09:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Lima (Peru)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Peru</category>
+    </item>
+    <item>
+      <title>Japan&#x2019;s Leader Hurt by New Disclosures Over Ties to Right-Wing Education Group</title>
+      <link>http://www.nytimes.com/2017/03/16/world/asia/japans-leader-hurt-by-new-disclosures-over-ties-to-right-wing-education-group.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/asia/japans-leader-hurt-by-new-disclosures-over-ties-to-right-wing-education-group.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/asia/japans-leader-hurt-by-new-disclosures-over-ties-to-right-wing-education-group.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17Japan1/17Japan1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Yasunori Kagoike, the administrator of Moritomo Gakuen, spoke to the media in Osaka prefecture, Japan, last week.</media:description>
+      <media:credit>Kyodo, via Reuters</media:credit>
+      <description>The leader of the group said Prime Minister Shinzo Abe had donated money to it, directly contradicting Mr. Abe.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 15:02:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+    </item>
+    <item>
+      <title>Relief Washes Over European Leadership After Dutch Vote</title>
+      <link>http://www.nytimes.com/2017/03/16/world/europe/dutch-election-geert-wilders-europe.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/europe/dutch-election-geert-wilders-europe.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/europe/dutch-election-geert-wilders-europe.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17Netherlands1/17Netherlands1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Mark Rutte of the Netherlands gave a victory speech in The Hague on Wednesday.</media:description>
+      <media:credit>Carl Court/Getty Images</media:credit>
+      <description>Populism may not be in full-scale retreat, but the worse-than-expected showing by Geert Wilders&#x2019;s far-right party and a huge turnout were cheered by European leaders.</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 14:50:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutte, Mark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilders, Geert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+    </item>
+    <item>
+      <title>Philippine Lawmaker Moves to Impeach Duterte</title>
+      <link>http://www.nytimes.com/2017/03/16/world/asia/philippines-duterte-impeachment-.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/asia/philippines-duterte-impeachment-.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/asia/philippines-duterte-impeachment-.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17Philippines1/17Philippines1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gary Alejano, an opposition lawmaker, shows his files on Thursday on an impeachment complaint against President Rodrigo Duterte of the Philippines.</media:description>
+      <media:credit>Rolex Dela Pena/European Pressphoto Agency</media:credit>
+      <description>With the president&#x2019;s allies controlling the House of Representatives, the impeachment bid, alleging murder and crimes against humanity, had little chance of success.</description>
+      <dc:creator>FELIPE VILLAMOR</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 14:08:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+    </item>
+    <item>
+      <title>Tillerson on N. Korea: &#x2018;20 Years of Failed Approach&#x2019;</title>
+      <link>http://www.nytimes.com/video/world/asia/100000004992815/tillerson-calls-for-different-approach-to-north-korea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/video/world/asia/100000004992815/tillerson-calls-for-different-approach-to-north-korea.html</guid>
+      <description>Speaking at a news conference in Tokyo, Rex W. Tillerson, the secretary of state, said on Thursday that the escalating threat from North Korea&#x2019;s nuclear program showed a clear need for a "different approach."</description>
+      <dc:creator/>
+      <pubDate>Thu, 16 Mar 2017 13:43:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Tokyo (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Kim Han-sol: A Future Leader of North Korea?</title>
+      <link>http://www.nytimes.com/video/world/asia/100000004978172/kim-han-sol-a-future-leader-of-north-korea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/video/world/asia/100000004978172/kim-han-sol-a-future-leader-of-north-korea.html</guid>
+      <description>Kim Han-sol, the nephew of North Korean ruler Kim Jong-un, is young, college-educated, fluent in English and living abroad. And he has called his uncle a dictator. But chances are slim he could ever lead his homeland. Here's why.</description>
+      <dc:creator/>
+      <pubDate>Thu, 16 Mar 2017 13:41:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">North Korea</category>
+    </item>
+    <item>
+      <title>Paisley Journal: In a Working-Class Stronghold, a Push for Scotland &#x2018;to Stand on Its Own&#x2019;</title>
+      <link>http://www.nytimes.com/2017/03/16/world/europe/scotland-independence-paisley.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/europe/scotland-independence-paisley.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/europe/scotland-independence-paisley.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/15/world/16Paisley1/16Paisley1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The center of Paisley, Scotland, this month. Unlike many post-industrial towns in England, Paisley voted to stay in the European Union.</media:description>
+      <media:credit>Kieran Dodds for The New York Times</media:credit>
+      <description>Areas like Paisley have long supported Scottish bids for independence, but the European Union&#x2019;s uncertain future has cast a pall on those hopes.</description>
+      <dc:creator>KATRIN BENNHOLD</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 13:30:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Textiles</category>
+    </item>
+    <item>
+      <title>Student, 17, Opens Fire at High School in Southeastern France</title>
+      <link>http://www.nytimes.com/2017/03/16/world/europe/grasse-shooting.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/europe/grasse-shooting.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/europe/grasse-shooting.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17France2/17France2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Students left the scene of a shooting at the Lyc&#xE9;e Alexis de Tocqueville in Grasse.</media:description>
+      <media:credit>Olivier Anrigo/European Pressphoto Agency</media:credit>
+      <description>At least three people were wounded, including the principal. The student was arrested.</description>
+      <dc:creator>AURELIEN BREEDEN</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 14:25:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Principals (School)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grasse (France)</category>
+    </item>
+    <item>
+      <title>Letter Bomb Injures Worker at I.M.F. Office in Paris</title>
+      <link>http://www.nytimes.com/2017/03/16/world/europe/paris-imf-bomb.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/europe/paris-imf-bomb.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/europe/paris-imf-bomb.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17Paris2/17Paris2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The police in Paris responded on Thursday to a letter bombing at the offices of the International Monetary Fund.</media:description>
+      <media:credit>Christophe Archambault/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The incident at such a high-profile target in Paris renewed jitters in France, which remains under a state of emergency after terrorist attacks.</description>
+      <dc:creator>LIZ ALDERMAN and NIKI KITSANTONIS</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 15:31:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+    </item>
+    <item>
+      <title>In Australia, a Call for Closer Ties to China Gains Support</title>
+      <link>http://www.nytimes.com/2017/03/16/world/australia/trump-us-china-relations-fitzgerald.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/world/australia/trump-us-china-relations-fitzgerald.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/world/australia/trump-us-china-relations-fitzgerald.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17australia-1/17australia-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump spoke with Prime Minister Malcolm Turnbull of Australia in January. A speech by a former diplomat on Thursday added to calls for Australia to move away from the United States toward China.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>Stephen FitzGerald, Australia&#x2019;s first ambassador to China, said that the world had reached the end of an era defined by American and European leadership.</description>
+      <dc:creator>DAMIEN CAVE</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 09:21:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Australian National University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medcalf, Rory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Who Undercut President Trump&#x2019;s Travel Ban? Candidate Trump</title>
+      <link>http://www.nytimes.com/2017/03/16/us/politics/trump-travel-ban-campaign.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/16/us/politics/trump-travel-ban-campaign.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/16/us/politics/trump-travel-ban-campaign.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/17/world/17immigassess-1/17immigassess-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump, in Nashville on Wednesday, mused about returning to the first version of his travel ban &#x2014; without explaining how he would get around the court&#x2019;s earlier rulings.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>Mr. Trump&#x2019;s angry, often xenophobic rallying cries during the campaign have become legal and political liabilities now that he is in the Oval Office.</description>
+      <dc:creator>MICHAEL D. SHEAR</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 07:54:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslim Americans</category>
+    </item>
+    <item>
+      <title>Number of Women Who Lead Nations Remains Stagnant</title>
+      <link>http://www.nytimes.com/2017/03/15/world/women-in-politics-may-merkel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/15/world/women-in-politics-may-merkel.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/15/world/women-in-politics-may-merkel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/16/world/16women/16women-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chancellor Angela Merkel of Germany, left, and Prime Minister Theresa May of Britain are two of the few female heads of state or government worldwide.</media:description>
+      <media:credit>Andreas Solaro/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A report by the Inter-Parliamentary Union and U.N. Women shows that progress toward gender equality in politics has slowed worldwide.</description>
+      <dc:creator>SOMINI SENGUPTA</dc:creator>
+      <pubDate>Thu, 16 Mar 2017 03:31:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Inter-Parliamentary Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations Entity for Gender Equality and the Empowerment of Women</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Tempest at U.N. Over Report Saying Israel Practices Apartheid</title>
+      <link>http://www.nytimes.com/2017/03/15/world/middleeast/un-israel-palestine-apartheid.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/15/world/middleeast/un-israel-palestine-apartheid.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/15/world/middleeast/un-israel-palestine-apartheid.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/16/world/16apartheid-1489618736993/16apartheid-1489618736993-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Palestinian boy herds his sheep on a field near the West Bank city of Jenin.</media:description>
+      <media:credit>Alaa Badarneh/European Pressphoto Agency</media:credit>
+      <description>A United Nations commission&#x2019;s report led to furious denunciations by Israel and the United States, and the secretary general distanced himself from it.</description>
+      <dc:creator>RICK GLADSTONE</dc:creator>
+      <pubDate>Wed, 15 Mar 2017 23:38:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haley, Nikki R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+    </item>
+    <item>
+      <title>3,300 Egyptian Children Hospitalized After Food Poisoning</title>
+      <link>http://www.nytimes.com/2017/03/15/world/middleeast/egypt-food-poisoning-3300-children.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/15/world/middleeast/egypt-food-poisoning-3300-children.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/15/world/middleeast/egypt-food-poisoning-3300-children.html?partner=rss&amp;emc=rss"/>
+      <description>The mass poisoning, which occurred in the impoverished Upper Egypt province of Sohag, was one of the biggest food-safety cases to hit the country in years.</description>
+      <dc:creator>NOUR YOUSSEF</dc:creator>
+      <pubDate>Wed, 15 Mar 2017 22:50:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+    </item>
+    <item>
+      <title>Candid Hitler Photos Sell for $41,000 to Unidentified Bidder</title>
+      <link>http://www.nytimes.com/2017/03/15/world/europe/eva-braun-hitler-photo-album.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/15/world/europe/eva-braun-hitler-photo-album.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/15/world/europe/eva-braun-hitler-photo-album.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/15/arts/16xp-hitlerpix/16xp-hitlerpix-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eva Braun and Adolf Hitler in an undated photograph. An album of other pictures, found among her possessions in the bunker where they committed suicide, sold at auction.</media:description>
+      <media:credit>Associated Press</media:credit>
+      <description>The album was found in 1945 among possessions of the Nazi leader&#x2019;s companion, Eva Braun, in the bunker where they killed themselves.</description>
+      <dc:creator>CHRISTINE HAUSER</dc:creator>
+      <pubDate>Wed, 15 Mar 2017 22:13:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hitler, Adolf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Braun, Eva</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goebbels, Joseph</category>
+    </item>
+    <item>
+      <title>Fighting in Libya&#x2019;s Capital as One Government Seizes Another&#x2019;s Compound</title>
+      <link>http://www.nytimes.com/2017/03/15/world/middleeast/libya-tripoli-fighting.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/03/15/world/middleeast/libya-tripoli-fighting.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/03/15/world/middleeast/libya-tripoli-fighting.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/03/16/world/16Libya/16Libya-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>On Wednesday, a member of Libyan security forces looked at an office occupied by the leader of a rival government after it was taken over by armed groups supporting a rival government backed by the United Nations.</media:description>
+      <media:credit>Hani Amara/Reuters</media:credit>
+      <description>The fighting apparently was set off on Monday by a dispute over control of a bank, then escalated into power struggles between militias loyal to the rival governments.</description>
+      <dc:creator>REUTERS</dc:creator>
+      <pubDate>Wed, 15 Mar 2017 21:53:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tripoli (Libya)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+    </item>
+  </channel>
+</rss>

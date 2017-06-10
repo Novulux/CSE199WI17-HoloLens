@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="topForArm" size="0.070000 0.049328" />
+    <ImageTarget name="wristBottom" size="0.800000 0.436948" />
+    <ImageTarget name="wristTop" size="0.090000 0.034948" />
+    <ImageTarget name="bearbread" size="0.090000 0.070287" />
+    <ImageTarget name="ArmSup" size="0.100000 0.050763" />
+    <ImageTarget name="ArmPro" size="0.100000 0.050763" />
+  </Tracking>
+</QCARConfig>

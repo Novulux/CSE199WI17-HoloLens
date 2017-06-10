@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+                   http://www.w3.org/TR/speech-synthesis/synthesis.xsd"
+         xml:lang="en-US">
+They say that the new super computer knows everything. A skeptical man came and asked the computer, "Where is my father?"
+The computer bleeped for a short while, and then came back with <break time="500ms"/> "<voice gender="female"> Your father is fishing in Michigan.</voice>"
+The skeptical man said triumphantly, "You see? I <emphasis level="strong">knew</emphasis> this was <emphasis>nonsense</emphasis>. My father has been dead for twenty years."
+"<voice gender="female"> <emphasis>No</emphasis>"</voice>, replied the super computer immediately. "<voice gender="female"> Your <emphasis>mother's husband</emphasis> has been dead for twenty years. <break time="500ms"/>Your <emphasis>father</emphasis><break time="500ms"/> just landed a three pound trout."</voice>
+<break time="1s"/>
+<voice gender="female"> 
+99 little bugs in the code 
+99 bugs in the code
+patch one down, compile it around
+117 bugs in the code
+</voice>
+<break time="1s"/>
+Wife: "<voice gender="female"> I look fat. Can you give me a compliment? </voice>" <break time="500ms"/> Husband: "You have perfect eyesight." 
+<break time="1s"/>
+How do you keep a programmer in the shower all day?<break time="1s"/>Give him a bottle of shampoo which says "lather, rinse, repeat."
+<break time="1s"/>
+What do computers eat for a snack?  <break time="1s"/> Microchips!
+<break time="1s"/>
+The energizer bunny was arrested on a charge of battery.
+<break time="1s"/>
+Why couldn't the leopard play hide and seek? <break time="1s"/> Because he was always spotted.
+<break time="1s"/>
+If you have 13 apples in one hand and 10 oranges in the other, what do you have? <break time="1s"/> Big hands. 
+<break time="1s"/>
+Why can't you trust an atom? <break time="1s"/> Because they make up everything. 
+<break time="1s"/>
+Molecule 1: I just lost an electron. <break time="1s"/> Molecule 2: Are you sure? <break time="1s"/> Molecule 1: I’m positive.
+<break time="1s"/>
+Why do centipedes have 100 legs? <break time="1s"/> So they can walk. 
+<break time="1s"/>
+Can a kangaroo jump higher than the Empire State Building? <break time="1s"/> Of course. The Empire State Building can't jump.
+<break time="1s"/>
+</speak>
